@@ -1,7 +1,7 @@
 # Overview / 概要
 
-A wireless joystick for a crawler robot equipped with a LED dot-matrix display.
-This joystick communicate with the robot via [ESP-NOW protocol](https://www.espressif.com/en/solutions/low-power-solutions/esp-now).
+A wireless joystick for a crawler robot equipped with an LED dot-matrix display.
+This joystick communicates with the robot via the [ESP-NOW protocol](https://www.espressif.com/en/solutions/low-power-solutions/esp-now).
 
 \[日本語\]
 
